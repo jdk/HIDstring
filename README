@@ -1,0 +1,8 @@
+Takes a string input and converts the string into the HID equivalent.  Similar
+to an ASCII representation of a string, this is the HID keyboard equivalent as 
+defined in the USB 1.1 specification.  
+
+Handy utility if you are doing any virtual keyboard type design and would like
+to send back a string to the host.
+
+Original Makefile from Robert Curtis: http://github.com/rcc
